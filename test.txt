@@ -1,1 +1,2 @@
-Hello Everyone
+Hello Everyon
+Welcome to Git Version Controlling
